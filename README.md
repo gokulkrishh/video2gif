@@ -1,11 +1,13 @@
 # Video2GIF
 
-# Quick-Start Guide
+> A simple progressive web application to create GIF from a video.
+
+## Quick-Start Guide
 
 - [Installation](#installation)
 - [Development Workflow](#development-workflow)
 
-## Installation
+### Installation
 
 **1. Clone this repo:**
 
