@@ -2,6 +2,8 @@
 
 > A simple progressive web application to create GIF from a video.
 
+Original idea from [Paul Kinlan](https://paul.kinlan.me/ffmpeg-ideas/).
+
 ## Quick-Start Guide
 
 - [Installation](#installation)
